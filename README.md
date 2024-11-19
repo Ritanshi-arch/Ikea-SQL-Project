@@ -1,8 +1,6 @@
-![Ikea-logo](https://github.com/user-attachments/assets/ae5b0b69-939c-4c13-b402-493f0759134f)# Ikea-SQL-Project
-
 # IKEA Retail Sales SQL Project
 
-![Project Banner![Ikea-logo](https://github.com/user-attachments/assets/676e66ca-e63a-4c2a-9143-af98dcea5f97)
+![Ikea-logo](https://github.com/user-attachments/assets/cf841bd7-8fe8-4a89-bc61-aafab2edf88d)
 
 Welcome to the **IKEA Retail Sales SQL Project**! This project leverages a detailed dataset of millions of sales records, product inventory, and store information across IKEA's global operations. The analysis focuses on uncovering sales trends, product performance, and inventory management insights to assist in data-driven decision-making.
 
