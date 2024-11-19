@@ -142,9 +142,9 @@ ORDER BY
 
 ## Contact Me
 
-📧 **[CV_Ritanshi_2024.pdf](https://github.com/user-attachments/files/17819162/CV_Ritanshi_2024.pdf)
+📧 **[Email](mailto:ritanshi.arya@gmail.com)
 **  
-💼 **https://www.linkedin.com/in/ritanshi-arya-729244187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app**  
+💼 ****[LinkedIn](https://www.linkedin.com/in/ritanshi-arya-729244187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)****  
 
 ---
 
